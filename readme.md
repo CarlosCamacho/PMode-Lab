@@ -109,10 +109,8 @@ The tool provides advanced image processing, dithering algorithms, NTSC artifact
 ## Roadmap Ideas
 
 - Direct .BIN loader for emulator testing
-- Palette editor
+- Pattern editor
 - True composite signal simulation
-- Animation / frame sequence support
-- CoCo 3 extended modes
 
 ---
 
