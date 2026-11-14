@@ -4,6 +4,8 @@ PMODE Lab is a browser-based graphics conversion tool designed for the TRS-80 Co
 
 The tool provides advanced image processing, dithering algorithms, NTSC artifact simulation, and export options suitable for retro development workflows.
 
+![PMODE Lab v4.2 Screenshot](screenshot.png)
+
 ---
 
 ## Features
