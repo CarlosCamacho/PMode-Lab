@@ -9,7 +9,7 @@ The tool provides advanced image processing, dithering algorithms, NTSC artifact
 ## Features
 
 ### Core Capabilities
-- Convert images to CoCo PMODE 4)
+- Convert images to CoCo PMODE 4
 - Accurate NTSC artifact color simulation
 - Real-time preview with multiple display modes
 - 256×192 resolution output (CoCo standard)
